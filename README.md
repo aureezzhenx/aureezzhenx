@@ -1,6 +1,8 @@
 ### ♡ ./Rose 🌹
 
-HOW YOU LIKE THAT!?
+<p align="center">
+    HOW YOU LIKE THAT!?.
+</p>
 
 ![alt text](https://github.com/aureezzhenx/aureezzhenx/blob/main/Et9kTagWYAIEBXn.jpg)
 
