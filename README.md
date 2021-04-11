@@ -1,7 +1,4 @@
-### Hi there 👋
-
-```
-rose :rose
+### ♡ Rose 🌹
 
 ![alt text](https://github.com/aureezzhenx/aureezzhenx/blob/main/Et9kTagWYAIEBXn.jpg)
 
