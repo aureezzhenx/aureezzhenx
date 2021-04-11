@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+```
+rose :rose
+
 ![alt text](https://github.com/aureezzhenx/aureezzhenx/blob/main/Et9kTagWYAIEBXn.jpg)
 
 <!--
