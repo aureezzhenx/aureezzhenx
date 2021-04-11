@@ -4,8 +4,6 @@
     HOW YOU LIKE THAT!?.
 </p>
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/ioNng23DkIM"></iframe>
-
 ![alt text](https://github.com/aureezzhenx/aureezzhenx/blob/main/Et9kTagWYAIEBXn.jpg)
 
 <!--
