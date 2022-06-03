@@ -1,8 +1,12 @@
-### ♡ ./Rose 🌹
+# <i><b>annyeonghasibnikka!<b></i>, im Jouzie Aulia Rezky aka <i>aureezz</i> ♡ 🌹
 
-<p align="center">
-    HOW YOU LIKE THAT!?.
-</p>
+My Main Role is DevOps Engineer. Still Trying hard in the world of Information and Technology. I'm CaptureTheFlag Player (Only focus on Web Exploits to learn more about Web Security); Junior IT Developer Enthusiast such as Back-End Web Developer, Bug Bounty, CentOS, Windows Server.
+
+Extremely motivated to constantly develop my skills and grow professionally. Communicative and working with positive attitude towards my career and life.
+
+### About me
+- 💼 I’m currently working as a DevOps Enginner at Gramedia
+- 📫 You can reach me via email at **jouzie.aurez@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/aureezz/)
 
 ![alt text](https://github.com/aureezzhenx/aureezzhenx/blob/main/Et9kTagWYAIEBXn.jpg)
 
