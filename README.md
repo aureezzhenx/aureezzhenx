@@ -6,7 +6,7 @@ Extremely motivated to constantly develop my skills and grow professionally. Com
 
 ### About me
 - 💼 I’m currently working as a DevOps Enginner at Gramedia
-- 📫 You can reach me via email at **jouzie.aurez@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/aureezz/)
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aureezz/)
 
 ![alt text](https://github.com/aureezzhenx/aureezzhenx/blob/main/Et9kTagWYAIEBXn.jpg)
 
