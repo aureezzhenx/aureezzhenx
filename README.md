@@ -8,7 +8,7 @@ Extremely motivated to constantly develop my skills and grow professionally. Com
 - 💼 I’m currently working as a DevOps Enginner at Gramedia
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aureezz/)
 
-![alt text](https://github.com/aureezzhenx/aureezzhenx/blob/main/Et9kTagWYAIEBXn.jpg)
+![alt text](https://github.com/aureezzhenx/aureezzhenx/blob/main/jisoo-blackpink-adidas-photoshoot-uhdpaper.com-4K-6.1731.jpg)
 
 <!--
 **aureezzhenx/aureezzhenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
