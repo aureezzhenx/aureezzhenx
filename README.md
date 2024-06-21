@@ -10,6 +10,7 @@ Extremely motivated to constantly develop my skills and grow professionally. Com
 
 ### My Portfolio about DevOps Enginner
 [DevOps #1](https://github.com/aureezzhenx/TaskDevOps) (VMWare & Cloud Computing, Manage Code & Database, Docker & CI/CD, Monitoring & Ansible)
+[DevOps #2](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4) (Deploy React on AWS) 
 
 ![alt text](https://github.com/aureezzhenx/aureezzhenx/blob/main/jisoo-blackpink-adidas-photoshoot-uhdpaper.com-4K-6.1731.jpg)
 
