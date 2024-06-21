@@ -1,6 +1,6 @@
 # <i><b>annyeonghasibnikka!<b></i>, im Jouzie Aulia Rezky
 
-My Main Role is DevOps Engineer. Still Trying hard in the world of Information and Technology. I'm CaptureTheFlag Player (Only focus on Web Exploits to learn more about Web Security); Junior IT Developer Enthusiast such as Back-End Web Developer, Bug Bounty, CentOS, Windows Server.
+My Main Role is DevOps Engineer. Still Trying hard in the world of Information and Technology.
 
 Extremely motivated to constantly develop my skills and grow professionally. Communicative and working with positive attitude towards my career and life.
 
