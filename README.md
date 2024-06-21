@@ -5,7 +5,7 @@ My Main Role is DevOps Engineer. Still Trying hard in the world of Information a
 Extremely motivated to constantly develop my skills and grow professionally. Communicative and working with positive attitude towards my career and life.
 
 ### About me
-- 💼 I’m currently working as a DevOps Enginner at Gramedia
+- 💼 I’m currently working as a DevOps Enginner at -
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aureezz/)
 
 ![alt text](https://github.com/aureezzhenx/aureezzhenx/blob/main/jisoo-blackpink-adidas-photoshoot-uhdpaper.com-4K-6.1731.jpg)
