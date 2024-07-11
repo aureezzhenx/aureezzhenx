@@ -1,9 +1,9 @@
 ![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
-# <i><b>annyeonghasibnikka!<b></i>, im Jouzie Aulia Rezky
+#<div align="center"><i><b>annyeonghasibnikka!<b></i>, im Jouzie Aulia Rezky 👋</div>
 
-My Main Role is DevOps Engineer. Still Trying hard in the world of Information and Technology.
+<div align="center">My Main Role is DevOps Engineer. Still Trying hard in the world of Information and Technology.</div>
 
-Extremely motivated to constantly develop my skills and grow professionally. Communicative and working with positive attitude towards my career and life.
+<div align="center">Extremely motivated to constantly develop my skills and grow professionally. Communicative and working with positive attitude towards my career and life.</div>
 
 ### About me
 - 💼 I’m currently working as a DevOps Enginner at -
