@@ -1,3 +1,4 @@
+![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
 # <i><b>annyeonghasibnikka!<b></i>, im Jouzie Aulia Rezky
 
 My Main Role is DevOps Engineer. Still Trying hard in the world of Information and Technology.
@@ -13,7 +14,7 @@ Extremely motivated to constantly develop my skills and grow professionally. Com
 - [DevOps #2](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4) (Deploy React on AWS)
 - [DevOps #3](https://github.com/aureezzhenx/Folkatech-DevOps-Engineer-Technical-Test) (Terraform AWS w/ ALB, Install Node14 Application on NGINX)
 
-### Stacks
+### Things i use and learn
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 [![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
