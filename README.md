@@ -2,7 +2,7 @@
 # <div align="center"><i><b>annyeonghasibnikka!<b></i>, im Jouzie Aulia Rezky 👋</div>
 
 <div align="center">My Main Role is DevOps Engineer. Still Trying hard in the world of Information and Technology.</div>
-
+<br>
 <div align="center">Extremely motivated to constantly develop my skills and grow professionally. Communicative and working with positive attitude towards my career and life.</div>
 
 ### About me
