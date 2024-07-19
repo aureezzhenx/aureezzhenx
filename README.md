@@ -1,3 +1,4 @@
+![MasterHead](https://64.media.tumblr.com/8b8430b2e5f3b95268d9bb0ba9fc38d5/16b06f00e1b7c83e-57/s540x810/fc9fe01f68835bf57bbaf8452ba7d1d3d4088177.gifv)
 # <div align="center"><i><b>안녕하십니까!<b></i>, im Jouzie Aulia Rezky 👋</div>
 
 <div align="center">My Main Role is DevOps Engineer. Still Trying hard in the world of Information and Technology.</div>
