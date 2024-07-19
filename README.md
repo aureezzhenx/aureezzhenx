@@ -15,6 +15,7 @@
 - [DevOps #3](https://github.com/aureezzhenx/Folkatech-DevOps-Engineer-Technical-Test) (Terraform AWS w/ ALB, Install Node14 Application on NGINX)
 - [DevOps #4](https://github.com/aureezzhenx/kubernetes) (Kubernetes on VirtualBox)
 - [DevOps #5](https://github.com/aureezzhenx/gitlab-runner) (Install GitLab Runner for CI/CD Deploy Docker on Ubuntu)
+- [DevOps #6](https://github.com/aureezzhenx/Wordpress-Ansible) (Ansible Wordpress w/ LAMP)
 
 ### Things i use and learn
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
