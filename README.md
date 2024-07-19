@@ -13,6 +13,7 @@
 - [DevOps #1](https://github.com/aureezzhenx/TaskDevOps) (VMWare & Cloud Computing, Manage Code & Database, Docker & CI/CD, Monitoring & Ansible)
 - [DevOps #2](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4) (Deploy React on AWS)
 - [DevOps #3](https://github.com/aureezzhenx/Folkatech-DevOps-Engineer-Technical-Test) (Terraform AWS w/ ALB, Install Node14 Application on NGINX)
+- [DevOps #4](https://github.com/aureezzhenx/kubernetes) (Training Kubernetes)
 
 ### Things i use and learn
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
