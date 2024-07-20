@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/aureezzhenx/aureezzhenx/blob/main/1aa392a609dd832c2b6ba6da0450099b.jpg)
-# <div align="center"><i><b>안녕하십니까!<b></i>, im Jouzie Aulia Rezky 👋</div>
+# <div align="center"><b>안녕하십니까!<b>, im Jouzie Aulia Rezky 👋</div>
 
 <div align="center">My Main Role is DevOps Engineer. Still Trying hard in the world of Information and Technology.</div>
 <br>
