@@ -13,7 +13,7 @@
 - [DevOps #1](https://github.com/aureezzhenx/TaskDevOps) (VMWare & Cloud Computing AWS, Manage Code & Database, Docker, Jenkins for CI/CD, Monitoring, Ansible)
 - [DevOps #2](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4) (Deploy React on AWS)
 - [DevOps #3](https://github.com/aureezzhenx/Folkatech-DevOps-Engineer-Technical-Test) (Terraform AWS w/ ALB, Install Node14 Application on NGINX)
-- [DevOps #4](https://github.com/aureezzhenx/kubernetes) (Kubernetes on VirtualBox)
+- [DevOps #4](https://github.com/aureezzhenx/kubernetes) (Kubernetes on Minikube local development)
 - [DevOps #5](https://github.com/aureezzhenx/gitlab-runner) (GitLab Runner for CI/CD Deploy Docker on Ubuntu)
 - [DevOps #6](https://github.com/aureezzhenx/Wordpress-Ansible) (Ansible Wordpress w/ LAMP)
 
