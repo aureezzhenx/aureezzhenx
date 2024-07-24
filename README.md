@@ -16,7 +16,7 @@
 - [DevOps #4](https://github.com/aureezzhenx/gitlab-runner) (GitLab Runner for CI/CD Deploy Docker on Ubuntu)
 - [DevOps #5](https://github.com/aureezzhenx/Wordpress-Ansible) (Ansible Wordpress w/ LAMP)
 - [DevOps #6](https://github.com/aureezzhenx/kubernetes) (Kubernetes on Minikube)
-- [DevOps #7](https://github.com/aureezzhenx/k8s-jenkins) (Deploy Kubernetes on Jenkins Localhost)
+- [DevOps #7](https://github.com/aureezzhenx/k8s-jenkins-deploy) (Deploy Kubernetes on Jenkins Localhost)
 
 ### Things i use and learn
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
