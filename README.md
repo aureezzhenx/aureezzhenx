@@ -9,9 +9,18 @@
 - 💼 I’m currently working as a DevOps Engineer at -
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aureezz/)
 
+### My Portfolio about DevOps Enginner
+- [DevOps #1](https://github.com/aureezzhenx/TaskDevOps) (VMWare & Cloud Computing AWS, Manage Code & Database, Docker, Jenkins for CI/CD, Monitoring, Ansible)
+- [DevOps #2](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4) (Deploy React on AWS)
+- [DevOps #3](https://github.com/aureezzhenx/Folkatech-DevOps-Engineer-Technical-Test) (Terraform AWS w/ ALB, Install Node14 Application on NGINX)
+- [DevOps #4](https://github.com/aureezzhenx/gitlab-runner) (GitLab Runner for CI/CD Deploy Docker on Ubuntu)
+- [DevOps #5](https://github.com/aureezzhenx/Wordpress-Ansible) (Ansible Wordpress w/ LAMP)
+- [DevOps #6](https://github.com/aureezzhenx/kubernetes) (Kubernetes on Minikube)
+- [DevOps #7](https://github.com/aureezzhenx/k8s-jenkins-deploy) (Real-Time Deployment on Kubernetes cluster using Jenkins Localhost)
+
 <details>
-<summary>🔐 PGP Fingerprint: EE50 06C7 DC7E 92E2 C972 E38D D503 37E1 C1D2 A9AB</summary>
-  
+<summary>🔐 PGP Fingerprint: ```EE50 06C7 DC7E 92E2 C972 E38D D503 37E1 C1D2 A9AB```</summary>
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 xjMEZqMbFhYJKwYBBAHaRw8BAQdApmo+eyzlBWHxAh4zSpNQnZZLiqxzZ93I
@@ -27,17 +36,7 @@ mT8Ntp6S2iJ2qZC1uzkE
 =MtcQ
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
 </details>
-
-### My Portfolio about DevOps Enginner
-- [DevOps #1](https://github.com/aureezzhenx/TaskDevOps) (VMWare & Cloud Computing AWS, Manage Code & Database, Docker, Jenkins for CI/CD, Monitoring, Ansible)
-- [DevOps #2](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4) (Deploy React on AWS)
-- [DevOps #3](https://github.com/aureezzhenx/Folkatech-DevOps-Engineer-Technical-Test) (Terraform AWS w/ ALB, Install Node14 Application on NGINX)
-- [DevOps #4](https://github.com/aureezzhenx/gitlab-runner) (GitLab Runner for CI/CD Deploy Docker on Ubuntu)
-- [DevOps #5](https://github.com/aureezzhenx/Wordpress-Ansible) (Ansible Wordpress w/ LAMP)
-- [DevOps #6](https://github.com/aureezzhenx/kubernetes) (Kubernetes on Minikube)
-- [DevOps #7](https://github.com/aureezzhenx/k8s-jenkins-deploy) (Real-Time Deployment on Kubernetes cluster using Jenkins Localhost)
 
 ### Things i use and learn
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
