@@ -1,3 +1,5 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 ![MasterHead](https://github.com/aureezzhenx/aureezzhenx/blob/main/1aa392a609dd832c2b6ba6da0450099b.jpg)
 # <div align="center"><b>안녕하십니까!<b>, im Jouzie Aulia Rezky 👋</div>
 
