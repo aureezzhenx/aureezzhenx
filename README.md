@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 ![MasterHead](https://github.com/aureezzhenx/aureezzhenx/blob/main/1aa392a609dd832c2b6ba6da0450099b.jpg)
 # <div align="center"><b>안녕하십니까!<b>, im Jouzie Aulia Rezky 👋</div>
 
@@ -10,8 +8,6 @@
 ### About me
 - 💼 I’m currently working as a DevOps Engineer at -
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aureezz/)
-
-<img src="<div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="aureezz" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/aureezz?trk=profile-badge">Jouzie Aulia Rezky</a></div>"</img>
 
 ### My Portfolio about DevOps Enginner
 - [DevOps #1](https://github.com/aureezzhenx/TaskDevOps) (VMWare & Cloud Computing AWS, Manage Code & Database, Docker, Jenkins for CI/CD, Monitoring, Ansible)
