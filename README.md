@@ -19,7 +19,7 @@
 - [DevOps #7](https://github.com/aureezzhenx/k8s-jenkins-deploy) (Real-Time Deployment on Kubernetes cluster using Jenkins Localhost)
 
 <details>
-<summary>🔐 PGP Fingerprint: ```EE50 06C7 DC7E 92E2 C972 E38D D503 37E1 C1D2 A9AB```</summary>
+<summary>🔐 PGP Fingerprint: <code>EE50 06C7 DC7E 92E2 C972 E38D D503 37E1 C1D2 A9AB</code></summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
