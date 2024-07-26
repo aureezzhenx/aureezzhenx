@@ -9,6 +9,26 @@
 - 💼 I’m currently working as a DevOps Engineer at -
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aureezz/)
 
+<details>
+<summary>🔐 PGP Fingerprint: EE50 06C7 DC7E 92E2 C972 E38D D503 37E1 C1D2 A9AB</summary>
+```
+  -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEZqMbFhYJKwYBBAHaRw8BAQdApmo+eyzlBWHxAh4zSpNQnZZLiqxzZ93I
+6TJIoCnb8dLNK0pvdXppZSBBdWxpYSBSZXpreSA8am91emllLmF1cmV6QGdt
+YWlsLmNvbT7CjAQQFgoAPgWCZqMbFgQLCQcICZDVAzfhwdKpqwMVCAoEFgAC
+AQIZAQKbAwIeARYhBO5QBsfcfpLiyXLjjdUDN+HB0qmrAADb+gD9FrI1iFDw
+VTS37YGplrbpcvzPcXAmuX2zpaN3GKS65zoBANo3/RR2PmNriA+70am7yaJ1
+hC+WOGO5XX4fIen3rXoNzjgEZqMbFhIKKwYBBAGXVQEFAQEHQF2X2mJkRsiz
+Punr5NVfowe1e2mmbHSxeL4XCM60a70vAwEIB8J4BBgWCgAqBYJmoxsWCZDV
+AzfhwdKpqwKbDBYhBO5QBsfcfpLiyXLjjdUDN+HB0qmrAACaEwD8CsR1tT8b
+qbB1ZnrLva9x3L4+nv/8LFBflcbDQoR77a4BAKso0crnCVTWOrwALfQMiTcP
+mT8Ntp6S2iJ2qZC1uzkE
+=MtcQ
+-----END PGP PUBLIC KEY BLOCK-----
+```
+</details>
+
 ### My Portfolio about DevOps Enginner
 - [DevOps #1](https://github.com/aureezzhenx/TaskDevOps) (VMWare & Cloud Computing AWS, Manage Code & Database, Docker, Jenkins for CI/CD, Monitoring, Ansible)
 - [DevOps #2](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4) (Deploy React on AWS)
@@ -46,18 +66,3 @@
 
 
 ![alt text](https://github.com/aureezzhenx/aureezzhenx/blob/main/jisoo-blackpink-adidas-photoshoot-uhdpaper.com-4K-6.1731.jpg)
-
-<!--
-**aureezzhenx/aureezzhenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
