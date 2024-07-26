@@ -9,6 +9,8 @@
 - 💼 I’m currently working as a DevOps Engineer at -
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aureezz/)
 
+<div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="aureezz" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/aureezz?trk=profile-badge">Jouzie Aulia Rezky</a></div>
+
 ### My Portfolio about DevOps Enginner
 - [DevOps #1](https://github.com/aureezzhenx/TaskDevOps) (VMWare & Cloud Computing AWS, Manage Code & Database, Docker, Jenkins for CI/CD, Monitoring, Ansible)
 - [DevOps #2](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4) (Deploy React on AWS)
