@@ -17,6 +17,7 @@
 - [DevOps #5](https://github.com/aureezzhenx/Wordpress-Ansible) (Ansible Wordpress w/ LAMP)
 - [DevOps #6](https://github.com/aureezzhenx/kubernetes) (Kubernetes on Minikube)
 - [DevOps #7](https://github.com/aureezzhenx/k8s-jenkins-deploy) (Real-Time Deployment on Kubernetes cluster using Jenkins Localhost)
+- [DevOps #8](https://github.com/aureezzhenx/k8s-jenkins-deploy) (Blue-Green Deployment Kubernetes with Helm and Istio Mesh)
 
 <details>
 <summary>🔐 PGP Fingerprint: <code>EE50 06C7 DC7E 92E2 C972 E38D D503 37E1 C1D2 A9AB</code></summary>
