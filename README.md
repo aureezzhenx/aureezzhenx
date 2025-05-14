@@ -6,7 +6,7 @@
 <div align="center">Extremely motivated to constantly develop my skills and grow professionally. Communicative and working with positive attitude towards my career and life.</div>
 
 ### About me
-- 💼 I’m currently working as a DevOps Engineer at PLN
+- 💼 I’m currently working as a DevOps Engineer at -
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aureezz/)
 
 ### My Portfolio about DevOps Enginner
