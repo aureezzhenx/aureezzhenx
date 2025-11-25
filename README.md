@@ -19,6 +19,7 @@
 - [DevOps #7](https://github.com/aureezzhenx/kubernetes) (Install Kubernetes cluster w/ Kubespray)
 - [DevOps #8](https://github.com/aureezzhenx/k8s-jenkins-deploy) (Real-Time Deployment on Kubernetes cluster using Jenkins Localhost)
 - [DevOps #9](https://github.com/aureezzhenx/k8s-jenkins-deploy) (Blue-Green Deployment Kubernetes with Helm and Istio Mesh)
+- [DevOps #10](https://github.com/aureezzhenxmulti-cluster-aggregator) (Multi-Cluster K8s Aggregator)
 
 <details>
 <summary>🔐 PGP Fingerprint: <code>EE50 06C7 DC7E 92E2 C972 E38D D503 37E1 C1D2 A9AB</code></summary>
